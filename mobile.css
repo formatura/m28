@@ -2,12 +2,12 @@
 	background-color: #0C5652;
 }
 #navbar {
-    height: 150px;
-	background-color: rgba(12,86,82,0.7);
+    height: 163px;
+	background-color: rgba(12,86,82,0.8);
 }
 #navbar-container {
     flex-direction: column;
-    padding: 20px 0;
+    padding: 7px 0;
 }
 #navbar-container h1{
 	font-size:0px;
@@ -19,7 +19,7 @@
     width: 100%;
 }
 
-#navbar-items li:nth-child(2) {
+#navbar-items li:nth-child(2n) {
     border-top: 1px solid #0C5652;
     border-bottom: 1px solid #0C5652;
 }
