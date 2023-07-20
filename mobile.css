@@ -3,7 +3,9 @@
 }
 #navbar {
     height: 160px;
-	background-color: rgba(12,86,82,0.8);
+	/*background-color: rgba(12,86,82,0.8);*/
+	background: url('backmenumobile.jpg');
+	opacity:0.8;
 }
 #navbar-container {
     flex-direction: column;
