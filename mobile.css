@@ -67,6 +67,7 @@ header{
 #atracoes{
 	padding:30px;
 	background: url('atracoesmobile.jpg') no-repeat center center/cover;
+	color: black;
 }
 .hora{
 	width:130px;
