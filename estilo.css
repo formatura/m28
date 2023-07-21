@@ -109,7 +109,18 @@ header {
     background-color: rgba(12,86,82,0.5);
     background-blend-mode: color;
 } */
-
+#formandos{
+	background:#FBFBF9;
+	color: black;
+	text-align:center;
+	padding-bottom:10px;
+}
+li {
+	list-style-type: none;
+}
+#formandos li{
+	font-style: italic;
+}
 
 /*Seção mapa*/
 #acessarmapa{
