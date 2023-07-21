@@ -64,6 +64,9 @@ header{
 	padding-top:180px;
 	
 }*/
+#formandos{
+	padding-top:20px;
+}
 
 /*ATRAÇÕES*/
 #atracoes{
@@ -84,7 +87,7 @@ header{
 }
 #mural{
 	padding:30px;
-	height: 35vh;
+	height: 30vh;
 }
 
 /*HOMENAGEM*/
